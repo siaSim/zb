@@ -3,6 +3,13 @@
   "configurations": [
     {
       "type": "java",
+      "name": "ForExample2",
+      "request": "launch",
+      "mainClass": "ForExample2",
+      "projectName": "zb_70f12900"
+    },
+    {
+      "type": "java",
       "name": "ForExample1",
       "request": "launch",
       "mainClass": "ForExample1",
