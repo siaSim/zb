@@ -2,6 +2,13 @@
   "version": "0.2.0",
   "configurations": [
     {
+      "type": "java",
+      "name": "ForExample1",
+      "request": "launch",
+      "mainClass": "ForExample1",
+      "projectName": "zb_70f12900"
+    },
+    {
       "name": "C/C++ Runner: Debug Session",
       "type": "lldb",
       "request": "launch",
